@@ -35,7 +35,7 @@ class MainActivity : ComponentActivity() {
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Box {
         Text(
-            text = "Hi, my name is $name",
+            text = "Hi, my name is $name!",
             modifier = modifier
         )
     }
