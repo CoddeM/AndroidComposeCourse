@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GreetingCard</string>
+    <string name="happy_birthday">Happy Birthday %1$s!</string>
+    <string name="from">From %1$s</string>
+    <string name="signature_name">Rahul</string>
+    <string name="birthday_person_name">Ankit</string>
 </resources>
